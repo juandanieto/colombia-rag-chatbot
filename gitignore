@@ -1,0 +1,12 @@
+# Generated artifacts
+history.json
+corpus_colombia/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
