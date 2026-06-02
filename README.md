@@ -5,8 +5,6 @@ It retrieves the most relevant passages from a local corpus using **FAISS** and 
 grounded answers with a free **Hugging Face** model. The assistant detects the language of each
 question and replies in the same one: **English, Portuguese, or Spanish**.
 
-**Author:** Juan David Nieto
-
 ## Overview
 
 The project follows a classic RAG pipeline:
