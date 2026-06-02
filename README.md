@@ -85,7 +85,6 @@ jupyter notebook colombia_rag_chatbot_Juan_Nieto.ipynb
 
 ## Notes
 
-- The first run downloads the model weights (a few GB), which can take a couple of minutes.
 - A multilingual embedding model is used so that questions in Portuguese and Spanish match an
   English corpus. The `all-MiniLM-L6-v2` model can be used instead by changing `EMB_MODEL`,
   at the cost of weaker cross-lingual retrieval.
