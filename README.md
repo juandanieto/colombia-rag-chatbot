@@ -19,7 +19,7 @@ Local .txt corpus  ->  Multilingual embeddings  ->  FAISS index
                               Language detection  ->  Grounded generation  ->  Answer
 ```
 
-The model answers **only** from the retrieved context. If the information is not present, it
+The model answers only from the retrieved context. If the information is not present, it
 says so instead of inventing an answer.
 
 ## Features
